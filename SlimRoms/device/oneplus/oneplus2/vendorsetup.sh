@@ -1,0 +1,2 @@
+add_lunch_combo slim_oneplus2-eng
+add_lunch_combo slim_oneplus2-userdebug
